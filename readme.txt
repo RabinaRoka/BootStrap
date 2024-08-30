@@ -25,3 +25,6 @@ The i element was originally used to make other elements italic, but is now comm
 <i class="fas fa-info-circle"></i>
 
 link : <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
+
+#Bootstrap has a class called well that can create a visual sense of depth for your columns.
